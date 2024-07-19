@@ -1,3 +1,3 @@
 # ChestX_PCA
 
-Positioning criterions analysis before chest X-ray imaging.
+Chest X-ray positioning & collimation prospective QC before imaging.
